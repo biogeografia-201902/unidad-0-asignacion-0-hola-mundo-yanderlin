@@ -4,4 +4,4 @@ Probemos que funciona.
 
 Escribe tu nombre y apellidos justo debajo de esta línea
 
-Yanderlin vasquez 
+Yanderlin Vasquez 
